@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    font-family: arial;
+    margin-right: 1em;
+    color: darkgray;
+    text-align: center;
+}
+h3{
+    color: darkgreen;
+    font-family: arial;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 60%;
+}

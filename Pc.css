@@ -1,0 +1,10 @@
+img{
+
+    width: 60%;
+}
+video{
+    border-radius: 0.5em;
+    border-color: darkblue;
+    border-top: royalblue;
+    background-image: photos/pc11.jpg;
+}
